@@ -5,10 +5,30 @@
 Write your answers for each scenario:
 
 Scenario 1:
-Imagine you are hired by a startup company for a school to implement their IT infrastructure as their IT consultant. n your own words (300 words or less), describe how could implementing Scrum help their IT team improve their productivity.
+Imagine you are hired by a startup company for a school to implement their IT infrastructure as their IT consultant. In your own words (300 words or less), describe how could implementing Scrum help their IT team improve their productivity.
 
 ```
 Your answer here
+
+Scum is an agile project management framework suited for small teams experienced in Agile, where your final product is constantly changing due to stakeholders modifying the scope, and you need to anticipate any kind of changes during project, and rapidly deploy the product.
+
+Scum aims to establish small pieces of a release faster in sprints, that last 1 to 4 weeks, so you have a working software to show as team works toward the final product version. Scum uses an empirical approach, meaning working based on facts, experience, and evidence, where progress is based on observations of reality (working software), instead of guessed plans based on large amount of upfront requirements that do no reflect reality at the end. One key advantage is that Scum allows visibility with regards to the progress of work and team via daily stand-up meetings, so that those responsible for it can be recognized and appreciated for their efforts, which promotes a motivated healthy team.
+
+Daily stand-up makes clear everyone's task, eliminating many misunderstandings and confusion. It ensures team is aware of all issues and changes as soon as they arise, so issues are identified in advance, allowing teams to resolve them early before it leads to a bigger issue, saving time and resources and improve quality. By coding and testing features in smaller releases, there is continuous feedback during daily stand-up, and mistakes can be corrected early on, saving resources and increasing productivity. Short sprints and constant feedback make it easier to accommodate changes.
+
+Ceremonies like sprint review and sprint retrospective at the end of each sprint makes team reflect on what works well, what can be improved, and decide on what can be implemented sustainability, improving productivity as team would less likely make mistakes and have to fix codes.
+
+
+
+Notes:
+Scum is about 3 pillars; transparency, inspection, adaptation.
+
+Transparency is realized in the tools and rituals of
+- Product backlog, task boards, burndown charts, daily stand-up, sprint reviews, sprint retrospectives, definition of done.
+
+Inspection and Adaptation are realized in the rituals and ceremonies of
+- Inspection: use of Scrum board, create prioritized product backlog, conduct release planning process, collection of feedback from customer and other stakeholders during the Develop Epic(s), inspection and approval of the deliverables by product owner, customer in the Demonstrate and Validate Sprint process.
+- Adaptation: daily stand-up/scum meetings, sprint review, sprint retrospective
 
 
 ```
