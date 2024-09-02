@@ -10,13 +10,26 @@ Imagine you are hired by a startup company for a school to implement their IT in
 ```
 Your answer here
 
-Scum is an agile project management framework suited for small teams experienced in Agile, where your final product is constantly changing due to stakeholders modifying the scope, and you need to anticipate any kind of changes during project, and rapidly deploy the product.
+Scum is an agile project management framework suited for small teams experienced in Agile, where your final product is
+constantly changing due to stakeholders modifying the scope, and you need to anticipate any kind of changes during project,
+and rapidly deploy the product.
 
-Scum aims to establish small pieces of a release faster in sprints, that last 1 to 4 weeks, so you have a working software to show as team works toward the final product version. Scum uses an empirical approach, meaning working based on facts, experience, and evidence, where progress is based on observations of reality (working software), instead of guessed plans based on large amount of upfront requirements that do no reflect reality at the end. One key advantage is that Scum allows visibility with regards to the progress of work and team via daily stand-up meetings, so that those responsible for it can be recognized and appreciated for their efforts, which promotes a motivated healthy team.
+Scum aims to establish small pieces of a release faster in sprints, that last 1 to 4 weeks, so you have a working software
+to show as team works toward the final product version. Scum uses an empirical approach, meaning working based on facts,
+experience, and evidence, where progress is based on observations of reality (working software), instead of guessed plans
+based on large amount of upfront requirements that do no reflect reality at the end. One key advantage is that Scum allows
+visibility with regards to the progress of work and team via daily stand-up meetings, so that those responsible for it can
+be recognized and appreciated for their efforts, which promotes a motivated healthy team.
 
-Daily stand-up makes clear everyone's task, eliminating many misunderstandings and confusion. It ensures team is aware of all issues and changes as soon as they arise, so issues are identified in advance, allowing teams to resolve them early before it leads to a bigger issue, saving time and resources and improve quality. By coding and testing features in smaller releases, there is continuous feedback during daily stand-up, and mistakes can be corrected early on, saving resources and increasing productivity. Short sprints and constant feedback make it easier to accommodate changes.
+Daily stand-up makes clear everyone's task, eliminating many misunderstandings and confusion. It ensures team is aware of
+all issues and changes as soon as they arise, so issues are identified in advance, allowing teams to resolve them early
+before it leads to a bigger issue, saving time and resources and improve quality. By coding and testing features in smaller
+releases, there is continuous feedback during daily stand-up, and mistakes can be corrected early on, saving resources and
+increasing productivity. Short sprints and constant feedback make it easier to accommodate changes.
 
-Ceremonies like sprint review and sprint retrospective at the end of each sprint makes team reflect on what works well, what can be improved, and decide on what can be implemented sustainability, improving productivity as team would less likely make mistakes and have to fix codes.
+Ceremonies like sprint review and sprint retrospective at the end of each sprint makes team reflect on what works well, what
+can be improved, and decide on what can be implemented sustainability, improving productivity as team would less likely make
+mistakes and have to fix codes.
 
 
 
